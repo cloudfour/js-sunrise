@@ -12,10 +12,10 @@ globally using `npm install --global`. For the time being as it is under
 construction, you'll want to do the following:
 
 1. clone the repository
-2. read the lesson material on github (it's easier to navigate that way)
+2. [read the lesson material](./lessons) on github (it's easier to navigate that way)
 3. run the interactive exercises
 
-**NOTE**: Until this is a globally-installed odule, you will need to run the
+**NOTE**: Until this is a globally-installed module, you will need to run the
 interactive workshop slightly differently than the documentation within the
 workshop describes. Instead of `js-sunrise` you'll need to use
 `node js-sunrise.js`.
