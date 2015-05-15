@@ -5,6 +5,9 @@
     "type": "git",
     "url": "git://github.com/cloudfour/js-sunrise"
   },
+  "bin": {
+    "js-sunrise": "./js-sunrise.js"
+  },
   "license": "MIT",
   "dependencies": {
     "workshopper": "1.x",
@@ -12,7 +15,6 @@
     "workshopper-wrappedexec": "^0.1.1",
     "workshopper-boilerplate": "0.0.1",
     "colors-tmpl": "^1.0.0",
-    "through2": "^0.4.1",
-    "bl": "^0.8.0"
+    "through2": "^0.4.1"
   }
 }
