@@ -2,7 +2,7 @@
 
 ## Reading
 
-* Read [chapter 2](http://eloquentjavascript.net/01_values.html) _Eloquent JavaScript_.
+* Read [chapter 1](http://eloquentjavascript.net/01_values.html) _Eloquent JavaScript_.
 
 ## Additional Content
 
