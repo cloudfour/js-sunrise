@@ -52,6 +52,8 @@ Often, JavaScript programmers prefer the strict comparison operator as the defau
 
 ### Workshop Exercises
 
+* Complete the `WELCOME` and `STRING FORMAT` exercises in the `js-sunrise` interactive workshop.
+
 ### Additional Exercises
 
 In your browser's console, execute the following statements:
