@@ -19,8 +19,17 @@ Write a loop that makes 7 calls to `console.log` to output the following:
 Create a file called `looping-2.js` in `my-solutions` to hold your
 solution code.
 
-In the last exercise, you implemented a `for` loop with a counter variable. In
-this exercise, you'll be outputting the value of the counter variable in the
+for-loop syntax from last exercise:
+
+`for (var i = 0; i < 7; i++)`
+
+This syntax breaks down as:
+
+`for (initialize; check; update)`
+
+In the last exercise, you implemented a `for` loop with a numeric counter variable.
+
+In this exercise, you'll be outputting the value of the counter variable in the
 loop to the console. Based on that, what `type` of value do you think the
 counter variable in your for loop will need to be?
 
