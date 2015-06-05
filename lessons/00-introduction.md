@@ -15,6 +15,11 @@ The chapter makes mention of ECMA and ECMAScript. These are terms you’ll hear 
 
 ES6 (ECMAScript 6, also known as “Harmony”) is a big, hot topic right now. We’ll be talking more about that as we go.
 
+**ALERT**: As of late May, 2015:
+
+* ES6 has been renamed `JS 2015`
+* ES7 will be called `JS 2016`
+
 For now, most of what you’ll see is ES5, the flavor of JavaScript supported by [basically every browser](http://kangax.github.io/compat-table/es5/).
 
 ### Platforms and Engines
@@ -63,7 +68,7 @@ window
 
 and hit enter.
 
-What this does is display (print out) a representation of the value for the identifier `window`. `window` is a JavaScript `Object` that is made available by the `environment` in the browser (if "Object" and "environment" are mysterious concepts as of yet, don't fret, they'll come up later). 
+What this does is display (print out) a representation of the value for the identifier `window`. `window` is a JavaScript `Object` that is made available by the `environment` in the browser (if "Object" and "environment" are mysterious concepts as of yet, don't fret, they'll come up later).
 
 Expand the `window` object and explore it a bit, especially the stuff under the `document` property (itself another object...it's objects all the way down!). The `document` object contains representations of a lot of stuff about the web document in the browser window and you may start seeing some items that look familiar here.
 
@@ -71,7 +76,7 @@ Expand the `window` object and explore it a bit, especially the stuff under the 
 
 In Firefox, go to `Tools -> Web Developer -> Scratchpad...`. You can [read more about it here](https://developer.mozilla.org/en-US/docs/Tools/Scratchpad) if you like.
 
-The console in Web Inspector or the Console in Firefox are useful for quick, one-line things (in the previous example, `window` gets evaluated as soon as you hit enter), but ScratchPad gives you the ability to run longer chunks of JavaScript code in the browser environment. 
+The console in Web Inspector or the Console in Firefox are useful for quick, one-line things (in the previous example, `window` gets evaluated as soon as you hit enter), but ScratchPad gives you the ability to run longer chunks of JavaScript code in the browser environment.
 
 Type
 
@@ -79,7 +84,7 @@ Type
 window
 ```
 
-and hit enter. 
+and hit enter.
 
 Now click the `Run` button. Nothing happens. That's because we're not _in_ the console, the way we were when we were in the Web Inspector console above. This isn't a console, so things aren't logging out (displaying their values). But what if we wanted to examine the `window` object? There are two options. One is to right-click the `window` text and choose `Inspect` from the pop-up menu (this lets you explore the current state of the `window` object on that line).
 
