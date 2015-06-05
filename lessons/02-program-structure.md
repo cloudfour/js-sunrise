@@ -34,7 +34,7 @@ _returns_ the `Number` `6`.
 `Math` is different from its standard built-in friends in that you use it a little differently than the rest of them. The `Math` object is like a container that holds some useful things:
 
 * `methods` like the `abs` method. _Method_ is another word for a function that happens to be attached to an object. For our purposes now, you can consider _methods_ and _functions_ interchangeable, roughly. All _methods_ are _functions_ but not all _functions_ are _methods_. Anyhow.
-* Some useful `constants` like `Math.PI` and `Math.E`. You can "tell" these are _constant_ values because they are, by convention, written in `ALL CAPS`. Constants are values that are defined once and then never changed. Constants have a slightly peculiar reality in JavaScript that we don't need to worry about just now. 
+* Some useful `constants` like `Math.PI` and `Math.E`. You can "tell" these are _constant_ values because they are, by convention, written in `ALL CAPS`. Constants are values that are defined once and then never changed. Constants have a slightly peculiar reality in JavaScript that we don't need to worry about just now.
 
 `Math` is just one of the many standard built-ins. [Read more about it if you are interested](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math) (optional).
 
@@ -46,7 +46,13 @@ Chapter 2 moves quickly through a lot of core concepts. Certainly make sure that
 * `if/else if/if` branching
 * `while` loops, though you'll likely see `for` loops more often
 
-### Questions and Exercises
+## Questions and Exercises
+
+### Workshop Exercises
+
+* Complete the `LOOPING`, `FIZZBUZZ` and `CHESSBOARD` exercises in the workshop (each has two parts).
+
+### MOAR Exercises and Questions
 
 In your browser's `console`, type the following and hit enter:
 
