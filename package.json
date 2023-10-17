@@ -15,6 +15,6 @@
     "workshopper-wrappedexec": "^0.1.1",
     "workshopper-boilerplate": "0.0.1",
     "colors-tmpl": "^1.0.0",
-    "through2": "^0.4.1"
+    "through2": "^0.6.5"
   }
 }
